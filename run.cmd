@@ -1,2 +1,2 @@
 @echo off
-./cmd/build.cmd & cd ./_build/exe & WenZiXiuXian.exe & exit
+cd ./cmd & build.cmd & cd .././_build/exe & WenZiXiuXian.exe & exit

@@ -35,7 +35,7 @@ set(HEADER_FILES
     view/RoleView.h
 )
 
-add_executable(WenZiXiuXian ${SRC_FILES})
+add_executable(WenZiXiuXian ${SRC_FILES} ${HEADER_FILES})
 
 target_include_directories(WenZiXiuXian PRIVATE
     ${CMAKE_SOURCE_DIR}
