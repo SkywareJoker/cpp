@@ -13,6 +13,8 @@ void BaseController::useViewShow()
 {
     HomeView::show();
 
+    HomeModel::saveData();
+
     int select;
     cin >> select;
 

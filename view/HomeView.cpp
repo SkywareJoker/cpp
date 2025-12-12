@@ -1,5 +1,4 @@
 #include "HomeView.h"
-
 #include <iostream>
 #include <cstdlib>
 #include <iomanip>

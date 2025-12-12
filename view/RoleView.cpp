@@ -19,5 +19,5 @@ void RoleView::show() {
     cout << "闪避：" << HomeModel::readData("miss") << endl;
     cout << "暴击：" << HomeModel::readData("cruel") << endl;
     cout << "吸血：" << HomeModel::readData("suck") << endl << endl;
-    cout << "0：关闭 | 1：升级(经验 0/100)" << endl << "请输入你的选择：";
+    cout << "0：关闭 | 1：升级(经验 0/100)" << endl << endl << "请输入你的选择：";
 }
