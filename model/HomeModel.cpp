@@ -53,7 +53,7 @@ void HomeModel::saveData()
     {
         outFile.open(RoleData::path, ios::out);
 
-        outFile << "{\"name\": \"无名氏\", \"life\": \"100\", \"magic\": \"0\", \"attack\": \"10\", \"defense\": \"5\", \"speed\": \"3\", \"miss\": \"0\", \"cruel\": \"0\", \"suck\": \"0\", \"exp\": \"0\"}";
+        outFile << "{\"name\": \"无名氏\", \"life\": \"100\", \"magic\": \"0\", \"attack\": \"10\", \"defense\": \"5\", \"speed\": \"3\", \"miss\": \"0\", \"cruel\": \"0\", \"suck\": \"0\", \"grade\": \"0\", \"exp\": \"0\"}";
         outFile.close();
 
         return;

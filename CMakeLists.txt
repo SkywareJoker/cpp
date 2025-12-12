@@ -15,6 +15,7 @@ set(SRC_FILES
     main/json.hpp
 
     model/HomeModel.cpp
+    model/RoleModel.cpp
     
     view/HomeView.cpp
     view/RoleView.cpp
@@ -30,6 +31,7 @@ set(HEADER_FILES
     main/Main.h
     
     model/HomeModel.h
+    model/RoleModel.h
     
     view/HomeView.h
     view/RoleView.h

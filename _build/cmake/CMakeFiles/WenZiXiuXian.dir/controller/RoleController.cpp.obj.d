@@ -2,8 +2,8 @@ CMakeFiles/WenZiXiuXian.dir/controller/RoleController.cpp.obj: \
  C:\Users\Admin\Desktop\wzxx-cpp\controller\RoleController.cpp \
  C:\Users\Admin\Desktop\wzxx-cpp\controller\RoleController.h \
  C:\Users\Admin\Desktop\wzxx-cpp\controller\BaseController.h \
- C:/Users/Admin/Desktop/wzxx-cpp/view/RoleView.h \
- C:/Users/Admin/Desktop/wzxx-cpp/main/Main.h \
+ C:/Users/Admin/Desktop/wzxx-cpp/model/RoleModel.h \
+ C:/Users/Admin/Desktop/wzxx-cpp/model/HomeModel.h \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/iostream \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/requires_hosted.h \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -150,4 +150,6 @@ CMakeFiles/WenZiXiuXian.dir/controller/RoleController.cpp.obj: \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/basic_ios.tcc \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream.tcc \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/istream \
- G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/istream.tcc
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/istream.tcc \
+ C:/Users/Admin/Desktop/wzxx-cpp/view/RoleView.h \
+ C:/Users/Admin/Desktop/wzxx-cpp/main/Main.h

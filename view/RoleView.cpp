@@ -6,7 +6,10 @@
 
 using namespace std;
 
-void RoleView::show() {
+int RoleView::needExp = 0;
+
+void RoleView::show()
+{
     system("cls");
 
     cout << "——————————人物属性——————————" << endl;
@@ -18,6 +21,10 @@ void RoleView::show() {
     cout << "速度：" << HomeModel::readData("speed") << endl;
     cout << "闪避：" << HomeModel::readData("miss") << endl;
     cout << "暴击：" << HomeModel::readData("cruel") << endl;
-    cout << "吸血：" << HomeModel::readData("suck") << endl << endl;
-    cout << "0：关闭 | 1：升级(经验 0/100)" << endl << endl << "请输入你的选择：";
+    cout << "吸血：" << HomeModel::readData("suck") << endl
+         << endl;
+
+    cout << "0：关闭 | 1：升级(经验 " << HomeModel::readData("exp") << "/" << RoleView::needExp << ")" << endl
+         << endl
+         << "请输入你的选择：";
 }

@@ -14,6 +14,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/WenZiXiuXian.dir/main/Main.cpp.obj.d"
   "CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.obj"
   "CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.obj.d"
+  "CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj"
+  "CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj.d"
   "CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj"
   "CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj.d"
   "CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj"

@@ -7,6 +7,7 @@
 #include <string>
 #include <memory>
 #include <iostream>
+#include <filesystem>
 
 using namespace std;
 
@@ -16,6 +17,9 @@ map<string, unique_ptr<BaseController>> controllerMap;
 
 int main()
 {
+    // 删除掉之前的数据
+    std::filesystem::remove(RoleData::path);
+    
     controllerMap["home"] = make_unique<HomeController>();
     controllerMap["home"]->isShow = true;
 

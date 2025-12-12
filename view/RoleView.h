@@ -2,6 +2,8 @@
 #define ROLE_VIEW_H
 
 namespace RoleView {
+    extern int needExp;
+    
     extern void show();
 };
 

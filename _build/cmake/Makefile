@@ -272,6 +272,30 @@ model/HomeModel.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.s
 .PHONY : model/HomeModel.cpp.s
 
+model/RoleModel.obj: model/RoleModel.cpp.obj
+.PHONY : model/RoleModel.obj
+
+# target to build an object file
+model/RoleModel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj
+.PHONY : model/RoleModel.cpp.obj
+
+model/RoleModel.i: model/RoleModel.cpp.i
+.PHONY : model/RoleModel.i
+
+# target to preprocess a source file
+model/RoleModel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.i
+.PHONY : model/RoleModel.cpp.i
+
+model/RoleModel.s: model/RoleModel.cpp.s
+.PHONY : model/RoleModel.s
+
+# target to generate assembly for a file
+model/RoleModel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.s
+.PHONY : model/RoleModel.cpp.s
+
 view/HomeView.obj: view/HomeView.cpp.obj
 .PHONY : view/HomeView.obj
 
@@ -347,6 +371,9 @@ help:
 	@echo ... model/HomeModel.obj
 	@echo ... model/HomeModel.i
 	@echo ... model/HomeModel.s
+	@echo ... model/RoleModel.obj
+	@echo ... model/RoleModel.i
+	@echo ... model/RoleModel.s
 	@echo ... view/HomeView.obj
 	@echo ... view/HomeView.i
 	@echo ... view/HomeView.s

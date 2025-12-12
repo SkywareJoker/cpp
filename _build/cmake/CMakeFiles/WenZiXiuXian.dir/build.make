@@ -161,11 +161,26 @@ CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.s"
 	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Admin\Desktop\wzxx-cpp\model\HomeModel.cpp -o CMakeFiles\WenZiXiuXian.dir\model\HomeModel.cpp.s
 
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj: CMakeFiles/WenZiXiuXian.dir/flags.make
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj: CMakeFiles/WenZiXiuXian.dir/includes_CXX.rsp
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj: C:/Users/Admin/Desktop/wzxx-cpp/model/RoleModel.cpp
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj: CMakeFiles/WenZiXiuXian.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj"
+	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj -MF CMakeFiles\WenZiXiuXian.dir\model\RoleModel.cpp.obj.d -o CMakeFiles\WenZiXiuXian.dir\model\RoleModel.cpp.obj -c C:\Users\Admin\Desktop\wzxx-cpp\model\RoleModel.cpp
+
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.i"
+	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Admin\Desktop\wzxx-cpp\model\RoleModel.cpp > CMakeFiles\WenZiXiuXian.dir\model\RoleModel.cpp.i
+
+CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.s"
+	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Admin\Desktop\wzxx-cpp\model\RoleModel.cpp -o CMakeFiles\WenZiXiuXian.dir\model\RoleModel.cpp.s
+
 CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/flags.make
 CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/includes_CXX.rsp
 CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj: C:/Users/Admin/Desktop/wzxx-cpp/view/HomeView.cpp
 CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj"
 	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj -MF CMakeFiles\WenZiXiuXian.dir\view\HomeView.cpp.obj.d -o CMakeFiles\WenZiXiuXian.dir\view\HomeView.cpp.obj -c C:\Users\Admin\Desktop\wzxx-cpp\view\HomeView.cpp
 
 CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.i: cmake_force
@@ -180,7 +195,7 @@ CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/f
 CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/includes_CXX.rsp
 CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj: C:/Users/Admin/Desktop/wzxx-cpp/view/RoleView.cpp
 CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj: CMakeFiles/WenZiXiuXian.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj"
 	G:\C++\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj -MF CMakeFiles\WenZiXiuXian.dir\view\RoleView.cpp.obj.d -o CMakeFiles\WenZiXiuXian.dir\view\RoleView.cpp.obj -c C:\Users\Admin\Desktop\wzxx-cpp\view\RoleView.cpp
 
 CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.i: cmake_force
@@ -199,6 +214,7 @@ WenZiXiuXian_OBJECTS = \
 "CMakeFiles/WenZiXiuXian.dir/data/RoleData.cpp.obj" \
 "CMakeFiles/WenZiXiuXian.dir/main/Main.cpp.obj" \
 "CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.obj" \
+"CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj" \
 "CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj" \
 "CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj"
 
@@ -211,13 +227,14 @@ C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiu
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/data/RoleData.cpp.obj
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/main/Main.cpp.obj
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/model/HomeModel.cpp.obj
+C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.obj
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/build.make
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/linkLibs.rsp
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/objects1.rsp
 C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe: CMakeFiles/WenZiXiuXian.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable C:\Users\Admin\Desktop\wzxx-cpp\_build\exe\WenZiXiuXian.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Admin\Desktop\wzxx-cpp\_build\cmake\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable C:\Users\Admin\Desktop\wzxx-cpp\_build\exe\WenZiXiuXian.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\WenZiXiuXian.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
