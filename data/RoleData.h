@@ -3,10 +3,11 @@
 
 #include <iostream>
 #include <string>
+#include <filesystem>
 
 namespace RoleData
 {
-    static const std::string path = "C:\\Users\\Admin\\Desktop\\wzxx-cpp\\_build\\data\\role.jy";
+    static const std::string path = "role.jy";
 
     extern std::string name;
 
