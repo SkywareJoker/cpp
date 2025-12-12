@@ -7,10 +7,6 @@ using namespace std;
 
 void HomeView::show()
 {
-     system("chcp 65001");
-     _wsystem(L"title 文字修仙");
-     system("mode con cols=52 lines=20");
-
      system("cls");
 
      cout << "—————————— 天域修仙传 ——————————" << endl

@@ -6,6 +6,7 @@
 #include <map>
 #include <string>
 #include <memory>
+#include <cstdio>
 #include <iostream>
 #include <filesystem>
 
@@ -17,9 +18,13 @@ map<string, unique_ptr<BaseController>> controllerMap;
 
 int main()
 {
+    system("chcp 65001");
+    _wsystem(L"title 文字修仙");
+    system("mode con cols=52 lines=20");
+
     // 删除掉之前的数据
     std::filesystem::remove(RoleData::path);
-    
+
     controllerMap["home"] = make_unique<HomeController>();
     controllerMap["home"]->isShow = true;
 
