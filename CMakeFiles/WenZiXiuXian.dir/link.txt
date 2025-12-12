@@ -1,0 +1,3 @@
+E:\cmake\bin\cmake.exe -E rm -f CMakeFiles\WenZiXiuXian.dir/objects.a
+G:\C++\mingw64\bin\ar.exe qc CMakeFiles\WenZiXiuXian.dir/objects.a @CMakeFiles\WenZiXiuXian.dir\objects1.rsp
+G:\C++\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\WenZiXiuXian.dir/objects.a -Wl,--no-whole-archive -o _build\exe\WenZiXiuXian.exe -Wl,--out-implib,libWenZiXiuXian.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WenZiXiuXian.dir\linkLibs.rsp
