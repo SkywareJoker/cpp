@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe"
+  "C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.exe.manifest"
+  "C:/Users/Admin/Desktop/wzxx-cpp/_build/exe/WenZiXiuXian.pdb"
   "CMakeFiles/WenZiXiuXian.dir/controller/BaseController.cpp.obj"
   "CMakeFiles/WenZiXiuXian.dir/controller/BaseController.cpp.obj.d"
   "CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj"
@@ -15,9 +18,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/WenZiXiuXian.dir/view/HomeView.cpp.obj.d"
   "CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj"
   "CMakeFiles/WenZiXiuXian.dir/view/RoleView.cpp.obj.d"
-  "_build/exe/WenZiXiuXian.exe"
-  "_build/exe/WenZiXiuXian.exe.manifest"
-  "_build/exe/WenZiXiuXian.pdb"
   "libWenZiXiuXian.dll.a"
 )
 

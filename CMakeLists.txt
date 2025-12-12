@@ -4,21 +4,44 @@ project(Wzxx)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/_build/exe)
 
-file(GLOB_RECURSE  SRC_FILES
-    "./controller/*.cpp"
-    "./data/*.cpp"
-    "./main/*.cpp"
-    "./main/*.hpp"
-    "./model/*.cpp"
-    "./view/*.cpp"
+set(SRC_FILES
+    controller/BaseController.cpp
+    controller/HomeController.cpp
+    controller/RoleController.cpp
+    
+    data/RoleData.cpp
+    
+    main/Main.cpp
+    main/json.hpp
+
+    model/HomeModel.cpp
+    
+    view/HomeView.cpp
+    view/RoleView.cpp
 )
 
-file (GLOB_RECURSE  HEAD_FILES
-    "./controller/*.h"
-    "./data/*.h"
-    "./main/*.h"
-    "./model/*.h"
-    "./view/*.h"
+set(HEADER_FILES
+    controller/BaseController.h
+    controller/HomeController.h
+    controller/RoleController.h
+    
+    data/RoleData.h
+    
+    main/Main.h
+    
+    model/HomeModel.h
+    
+    view/HomeView.h
+    view/RoleView.h
 )
 
-add_executable(WenZiXiuXian ${SRC_FILES} ${HEAD_FILES})
+add_executable(WenZiXiuXian ${SRC_FILES})
+
+target_include_directories(WenZiXiuXian PRIVATE
+    ${CMAKE_SOURCE_DIR}
+    ${CMAKE_SOURCE_DIR}/main
+    ${CMAKE_SOURCE_DIR}/controller
+    ${CMAKE_SOURCE_DIR}/data
+    ${CMAKE_SOURCE_DIR}/model
+    ${CMAKE_SOURCE_DIR}/view
+)

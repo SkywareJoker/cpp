@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/Admin/Desktop/wzxx-cpp")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/Admin/Desktop/wzxx-cpp")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/Admin/Desktop/wzxx-cpp/_build/cmake")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

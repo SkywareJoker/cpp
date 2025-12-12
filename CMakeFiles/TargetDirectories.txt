@@ -1,3 +1,0 @@
-C:/Users/Admin/Desktop/wzxx-cpp/CMakeFiles/WenZiXiuXian.dir
-C:/Users/Admin/Desktop/wzxx-cpp/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Desktop/wzxx-cpp/CMakeFiles/rebuild_cache.dir
