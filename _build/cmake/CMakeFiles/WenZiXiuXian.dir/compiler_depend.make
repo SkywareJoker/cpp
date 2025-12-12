@@ -13,6 +13,7 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   C:/Users/Admin/Desktop/wzxx-cpp/controller/HomeController.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/backward/binders.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bit \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/algorithmfwd.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/alloc_traits.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/allocated_ptr.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/allocator.h \
@@ -28,6 +29,7 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/cpp_type_traits.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/cxxabi_forced.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/cxxabi_init_exception.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/deque.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/exception.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/exception_defines.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/exception_ptr.h \
@@ -55,6 +57,7 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/move.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/nested_exception.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/new_allocator.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/node_handle.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream_insert.h \
@@ -65,27 +68,53 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/quoted_string.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/range_access.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/refwrap.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.tcc \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.tcc \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.tcc \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_constants.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_error.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.tcc \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/requires_hosted.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr_base.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/sstream.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std_abs.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std_function.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algo.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algobase.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_bvector.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_construct.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_deque.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_function.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_heap.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_iterator.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_iterator_base_funcs.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_iterator_base_types.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_map.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_pair.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_stack.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tempbuf.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tree.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_uninitialized.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_vector.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/streambuf.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/streambuf_iterator.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/string_view.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stringfwd.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uniform_int_dist.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/unique_ptr.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uses_allocator.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uses_allocator_args.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/utility.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/vector.tcc \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/version.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bitset \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cctype \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cerrno \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/clocale \
@@ -100,6 +129,7 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cwctype \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/debug/assertions.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/debug/debug.h \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/deque \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/exception \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ext/aligned_buffer.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ext/alloc_traits.h \
@@ -122,7 +152,9 @@ CMakeFiles/WenZiXiuXian.dir/controller/HomeController.cpp.obj: C:/Users/Admin/De
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ostream \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/pstl/pstl_config.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ratio \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/regex \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/sstream \
+  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stack \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stdexcept \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stdlib.h \
   G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/streambuf \
@@ -1485,9 +1517,9 @@ C:/Users/Admin/Desktop/wzxx-cpp/model/HomeModel.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/compare:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/range_access.h:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/requires_hosted.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/range_access.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/basic_string.tcc:
 
@@ -1506,6 +1538,8 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/fs_ops.h:
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/exception_defines.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bit:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/algorithmfwd.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/alloc_traits.h:
 
@@ -1555,6 +1589,10 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/functexcept.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/cxxabi_forced.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/streambuf_iterator.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/deque.tcc:
+
 G:/C++/mingw64/x86_64-w64-mingw32/include/locale.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/exception_ptr.h:
@@ -1593,6 +1631,8 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/limits:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/locale_facets.tcc:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/move.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/locale_facets_nonio.h:
@@ -1607,19 +1647,59 @@ G:/C++/mingw64/x86_64-w64-mingw32/include/pthread_signal.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/nested_exception.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/node_handle.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream.tcc:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/ostream_insert.h:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr.h:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/parse_numbers.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uniform_int_dist.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stdexcept:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uniform_int_dist.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/refwrap.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.tcc:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/debug/assertions.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_stack.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.tcc:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/system_error:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.tcc:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/valarray:
+
+G:/C++/mingw64/x86_64-w64-mingw32/include/wchar.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_constants.h:
+
+G:/C++/mingw64/x86_64-w64-mingw32/include/stddef.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_error.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.tcc:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.tcc:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr_base.h:
 
@@ -1629,13 +1709,25 @@ G:/C++/mingw64/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std_abs.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/any:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algo.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ratio:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algobase.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_bvector.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_construct.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_deque.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_function.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cassert:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_heap.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
 
@@ -1647,9 +1739,19 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_iterator_b
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_iterator_base_types.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_map.h:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_pair.h:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/streambuf_iterator.h:
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tempbuf.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tree.h:
+
+G:/C++/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_uninitialized.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_vector.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/string_view.tcc:
 
@@ -1663,7 +1765,15 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uses_allocator
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/utility.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/iosfwd:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/vector.tcc:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/version.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/functional:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bitset:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cctype:
 
@@ -1695,11 +1805,11 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cwchar:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cwctype:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/debug/assertions.h:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/tr1/beta_function.tcc:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/debug/debug.h:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/deque:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/exception:
 
@@ -1721,10 +1831,6 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/initializer_list:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ios:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/vector.tcc:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/iosfwd:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/iostream:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/vector:
@@ -1745,7 +1851,11 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/tr1/poly_laguerre.t
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/pstl/pstl_config.h:
 
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/regex:
+
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/sstream:
+
+G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stack:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/valarray_after.h:
 
@@ -1756,12 +1866,6 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/streambuf:
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/string:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/string_view:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/gthr.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/system_error:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/tuple:
 
@@ -1808,10 +1912,6 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h:
 G:/C++/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/_mingw_off_t.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_uninitialized.h:
-
-G:/C++/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/_mingw_stat64.h:
 
@@ -1865,8 +1965,6 @@ G:/C++/mingw64/x86_64-w64-mingw32/include/sec_api/wchar_s.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/signal.h:
 
-G:/C++/mingw64/x86_64-w64-mingw32/include/stddef.h:
-
 G:/C++/mingw64/x86_64-w64-mingw32/include/stdint.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/stdio.h:
@@ -1884,10 +1982,6 @@ G:/C++/mingw64/x86_64-w64-mingw32/include/sys/types.h:
 G:/C++/mingw64/x86_64-w64-mingw32/include/time.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/vadefs.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/valarray:
-
-G:/C++/mingw64/x86_64-w64-mingw32/include/wchar.h:
 
 G:/C++/mingw64/x86_64-w64-mingw32/include/wctype.h:
 
@@ -1907,15 +2001,7 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_raw_storag
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/atomic_base.h:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/node_handle.h:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr_atomic.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_map.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tempbuf.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tree.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/map:
 
@@ -1931,13 +2017,7 @@ C:/Users/Admin/Desktop/wzxx-cpp/main/json.hpp:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/algorithm:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algo.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/any:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/array:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/algorithmfwd.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/enable_special_members.h:
 
@@ -1959,23 +2039,13 @@ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/slice_array.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/specfun.h:
 
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_bvector.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cassert:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_heap.h:
-
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_relops.h:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_vector.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/unordered_map.h:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/cmath:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/forward_list:
-
-G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/functional:
 
 G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/tr1/ell_integral.tcc:
 

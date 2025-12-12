@@ -6,6 +6,7 @@
 #include <iostream>
 #include <fstream>
 #include <filesystem>
+#include <regex>
 
 using namespace std;
 
@@ -15,10 +16,17 @@ void BaseController::useViewShow()
 
     HomeModel::saveData();
 
-    int select;
-    cin >> select;
+    string select;
+    getline(cin, select);
 
-    switch (select)
+    regex numRegex("^-?\\d+(\\.\\d+)?$");
+    if (!regex_match(select, numRegex))
+    {
+        return;
+    }
+
+    int result = stoi(select);
+    switch (result)
     {
     // 退出游戏
     case 0:

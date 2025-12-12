@@ -2,7 +2,8 @@
 #include "../model/RoleModel.h"
 #include "../view/RoleView.h"
 #include "../main/Main.h"
-#include "iostream"
+#include <iostream>
+#include <regex>
 
 using namespace std;
 
@@ -12,10 +13,17 @@ void RoleController::useViewShow()
 
     RoleView::show();
 
-    int select;
-    cin >> select;
+    string select;
+    getline(cin, select);
 
-    switch (select)
+    regex numRegex("^-?\\d+(\\.\\d+)?$");
+    if (!regex_match(select, numRegex))
+    {
+        return;
+    }
+
+    int result = stoi(select);
+    switch (result)
     {
     case 0:
     {

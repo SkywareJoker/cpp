@@ -152,4 +152,52 @@ CMakeFiles/WenZiXiuXian.dir/controller/RoleController.cpp.obj: \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/istream \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/istream.tcc \
  C:/Users/Admin/Desktop/wzxx-cpp/view/RoleView.h \
- C:/Users/Admin/Desktop/wzxx-cpp/main/Main.h
+ C:/Users/Admin/Desktop/wzxx-cpp/main/Main.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/regex \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bitset \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/locale \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/locale_facets_nonio.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ctime \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/time_members.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/x86_64-w64-mingw32/bits/messages_members.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/codecvt.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/locale_facets_nonio.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/locale_conv.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/sstream \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/sstream.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/stack \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/deque \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_uninitialized.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_deque.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/deque.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_stack.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ext/aligned_buffer.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/shared_ptr_base.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/allocated_ptr.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/unique_ptr.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/ext/concurrence.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/std_function.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_algo.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/algorithmfwd.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_heap.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/uniform_int_dist.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tempbuf.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tree.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/node_handle.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_map.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_vector.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_bvector.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/vector.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_constants.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_error.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_automaton.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_scanner.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_compiler.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex.tcc \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.h \
+ G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/regex_executor.tcc
