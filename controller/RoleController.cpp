@@ -33,5 +33,24 @@ void RoleController::useViewShow()
 
         break;
     }
+
+    case 1:
+    {
+        bool isUpgrade = RoleModel::isUpgrade();
+
+        break;
+    }
+
+    case 999:
+    {
+        HomeModel::saveData("exp", "999999999");
+        HomeModel::saveData("life", "99999");
+        HomeModel::saveData("magic", "99999");
+        HomeModel::saveData("attack", "99999");
+        HomeModel::saveData("defense", "99999");
+        HomeModel::saveData("speed", "99999");
+
+        break;
+    }
     }
 }

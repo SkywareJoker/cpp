@@ -7,6 +7,7 @@
 namespace RoleModel
 {
     extern int upgradeExp();
+    extern bool isUpgrade();
 }
 
 #endif
