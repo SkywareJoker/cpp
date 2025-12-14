@@ -128,6 +128,30 @@ WenZiXiuXian/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/build
 .PHONY : WenZiXiuXian/fast
 
+controller/BagController.obj: controller/BagController.cpp.obj
+.PHONY : controller/BagController.obj
+
+# target to build an object file
+controller/BagController.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/controller/BagController.cpp.obj
+.PHONY : controller/BagController.cpp.obj
+
+controller/BagController.i: controller/BagController.cpp.i
+.PHONY : controller/BagController.i
+
+# target to preprocess a source file
+controller/BagController.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/controller/BagController.cpp.i
+.PHONY : controller/BagController.cpp.i
+
+controller/BagController.s: controller/BagController.cpp.s
+.PHONY : controller/BagController.s
+
+# target to generate assembly for a file
+controller/BagController.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/controller/BagController.cpp.s
+.PHONY : controller/BagController.cpp.s
+
 controller/BaseController.obj: controller/BaseController.cpp.obj
 .PHONY : controller/BaseController.obj
 
@@ -248,6 +272,30 @@ main/Main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/main/Main.cpp.s
 .PHONY : main/Main.cpp.s
 
+model/BagModel.obj: model/BagModel.cpp.obj
+.PHONY : model/BagModel.obj
+
+# target to build an object file
+model/BagModel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/BagModel.cpp.obj
+.PHONY : model/BagModel.cpp.obj
+
+model/BagModel.i: model/BagModel.cpp.i
+.PHONY : model/BagModel.i
+
+# target to preprocess a source file
+model/BagModel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/BagModel.cpp.i
+.PHONY : model/BagModel.cpp.i
+
+model/BagModel.s: model/BagModel.cpp.s
+.PHONY : model/BagModel.s
+
+# target to generate assembly for a file
+model/BagModel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/BagModel.cpp.s
+.PHONY : model/BagModel.cpp.s
+
 model/HomeModel.obj: model/HomeModel.cpp.obj
 .PHONY : model/HomeModel.obj
 
@@ -295,6 +343,30 @@ model/RoleModel.s: model/RoleModel.cpp.s
 model/RoleModel.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/model/RoleModel.cpp.s
 .PHONY : model/RoleModel.cpp.s
+
+view/BagView.obj: view/BagView.cpp.obj
+.PHONY : view/BagView.obj
+
+# target to build an object file
+view/BagView.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/view/BagView.cpp.obj
+.PHONY : view/BagView.cpp.obj
+
+view/BagView.i: view/BagView.cpp.i
+.PHONY : view/BagView.i
+
+# target to preprocess a source file
+view/BagView.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/view/BagView.cpp.i
+.PHONY : view/BagView.cpp.i
+
+view/BagView.s: view/BagView.cpp.s
+.PHONY : view/BagView.s
+
+# target to generate assembly for a file
+view/BagView.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\WenZiXiuXian.dir\build.make CMakeFiles/WenZiXiuXian.dir/view/BagView.cpp.s
+.PHONY : view/BagView.cpp.s
 
 view/HomeView.obj: view/HomeView.cpp.obj
 .PHONY : view/HomeView.obj
@@ -353,6 +425,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... WenZiXiuXian
+	@echo ... controller/BagController.obj
+	@echo ... controller/BagController.i
+	@echo ... controller/BagController.s
 	@echo ... controller/BaseController.obj
 	@echo ... controller/BaseController.i
 	@echo ... controller/BaseController.s
@@ -368,12 +443,18 @@ help:
 	@echo ... main/Main.obj
 	@echo ... main/Main.i
 	@echo ... main/Main.s
+	@echo ... model/BagModel.obj
+	@echo ... model/BagModel.i
+	@echo ... model/BagModel.s
 	@echo ... model/HomeModel.obj
 	@echo ... model/HomeModel.i
 	@echo ... model/HomeModel.s
 	@echo ... model/RoleModel.obj
 	@echo ... model/RoleModel.i
 	@echo ... model/RoleModel.s
+	@echo ... view/BagView.obj
+	@echo ... view/BagView.i
+	@echo ... view/BagView.s
 	@echo ... view/HomeView.obj
 	@echo ... view/HomeView.i
 	@echo ... view/HomeView.s

@@ -3,13 +3,13 @@
 
 #include <iostream>
 #include <string>
+#include <map>
 
 namespace BagModel
 {
-    extern std::string readBagCell()
-    {
-
-    }
+    extern std::map<int, std::string> record;
+    
+    extern std::string readBagCell(int cell);
 }
 
 #endif

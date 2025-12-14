@@ -44,6 +44,15 @@ void BaseController::useViewShow()
 
         break;
     }
+    
+    // 背包
+    case 2:
+    {
+        BaseController::isShow = false;
+        Main::currentView = "bag";
+
+        break;
+    }
 
     // 存档
     case 7:

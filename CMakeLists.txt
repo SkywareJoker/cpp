@@ -8,6 +8,7 @@ set(SRC_FILES
     controller/BaseController.cpp
     controller/HomeController.cpp
     controller/RoleController.cpp
+    controller/BagController.cpp
     
     data/RoleData.cpp
     
@@ -16,15 +17,18 @@ set(SRC_FILES
 
     model/HomeModel.cpp
     model/RoleModel.cpp
+    model/BagModel.cpp
     
     view/HomeView.cpp
     view/RoleView.cpp
+    view/BagView.cpp
 )
 
 set(HEADER_FILES
     controller/BaseController.h
     controller/HomeController.h
     controller/RoleController.h
+    controller/BagController.h
     
     data/RoleData.h
     
@@ -32,9 +36,11 @@ set(HEADER_FILES
     
     model/HomeModel.h
     model/RoleModel.h
+    model/BagModel.h
     
     view/HomeView.h
     view/RoleView.h
+    view/BagView.h
 )
 
 add_executable(WenZiXiuXian ${SRC_FILES} ${HEADER_FILES})

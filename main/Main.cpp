@@ -3,6 +3,7 @@
 #include "../controller/BaseController.h"
 #include "../controller/HomeController.h"
 #include "../controller/RoleController.h"
+#include "../controller/BagController.h"
 #include <map>
 #include <string>
 #include <memory>
@@ -29,6 +30,8 @@ int main()
     controllerMap["home"]->isShow = true;
 
     controllerMap["role"] = make_unique<RoleController>();
+
+    controllerMap["bag"] = make_unique<BagController>();
 
     while (true)
     {

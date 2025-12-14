@@ -184,6 +184,8 @@ CMakeFiles/WenZiXiuXian.dir/main/Main.cpp.obj: \
  C:/Users/Admin/Desktop/wzxx-cpp/controller/HomeController.h \
  C:/Users/Admin/Desktop/wzxx-cpp/controller/BaseController.h \
  C:/Users/Admin/Desktop/wzxx-cpp/controller/RoleController.h \
+ C:/Users/Admin/Desktop/wzxx-cpp/controller/BagController.h \
+ C:/Users/Admin/Desktop/wzxx-cpp/view/BagView.h \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/map \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/stl_tree.h \
  G:/C++/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/c++/bits/node_handle.h \
